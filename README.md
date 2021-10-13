@@ -6,7 +6,7 @@
 ```
 bf_interpreter filename.bf filename.in
 ```
-* For Linux
+* For Linux(need to remove termcolor)
 ```
 ./bf_interpreter filename.bf filename.in
 ```
